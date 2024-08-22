@@ -1,5 +1,33 @@
 {
   "meals": [
+ {
+      "idMeal": "52785",
+      "strMeal": "Lentil Soup",
+      "strCategory": "Soup",
+      "strInstructions": "In a large pot, sauté onions, garlic, carrots, and celery until softened. Add the lentils, tomatoes, vegetable broth, and spices. Bring to a boil, then reduce heat and simmer for 25-30 minutes until lentils are tender.\r\nSeason with salt and pepper to taste. Serve hot with crusty bread.",
+      "strMealThumb": "https://cookieandkate.com/images/2019/01/best-lentil-soup-recipe-4.jpg"
+    },
+{
+  "idMeal": "52791",
+  "strMeal": "Biryani",
+  "strCategory": "Rice",
+  "strInstructions": "Cook basmati rice with whole spices until 70% done. Prepare a mixture of marinated meat (chicken or mutton), fried onions, yogurt, and spices. Layer the meat mixture and rice in a pot, sprinkle with saffron-infused milk, and seal the pot. Cook on low heat until the meat is tender and the rice is fully cooked. Serve with raita.",
+  "strMealThumb": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/chicken-biryani.jpg"
+},
+{
+  "idMeal": "52792",
+  "strMeal": "Masala Dosa",
+  "strCategory": "Breakfast",
+  "strInstructions": "Soak rice and lentils, grind them to a smooth batter, and ferment overnight. Prepare a filling with mashed potatoes, onions, mustard seeds, and spices. Spread the batter on a hot griddle to make a thin crepe. Add the potato filling, fold the dosa, and serve with coconut chutney and sambar.",
+  "strMealThumb": "https://ranveerbrar.com/wp-content/uploads/2021/02/Masala-dosa-scaled.jpg"
+},
+ {
+  "idMeal": "52789",
+  "strMeal": "Butter Chicken",
+  "strCategory": "Chicken",
+  "strInstructions": "Marinate the chicken pieces in yogurt, ginger, garlic, and spices for at least 1 hour. Cook the chicken in a tandoor or oven until half done. Prepare a rich tomato-based gravy with butter, cream, and spices. Add the chicken pieces to the gravy and cook until done. Serve with naan or rice.",
+  "strMealThumb": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/04/butter-chicken-recipe.jpg"
+},
     {
       "idMeal": "52768",
       "strMeal": "Apple Frangipan Tart",
@@ -119,13 +147,7 @@
       "strInstructions": "Preheat oven to 375F/190C.\r\nCook the lasagna noodles according to package instructions. Drain and set aside.\r\nIn a large skillet, sauté onions, garlic, and vegetables until tender. Stir in the marinara sauce and simmer for 10 minutes.\r\nIn a bowl, mix together ricotta, egg, and Parmesan cheese.\r\nSpread a thin layer of sauce in the bottom of a baking dish. Layer noodles, ricotta mixture, and vegetable sauce. Repeat layers, ending with sauce and mozzarella cheese on top.\r\nBake for 30-35 minutes until bubbly and golden. Let cool for 10 minutes before serving.",
       "strMealThumb": "https://cookieandkate.com/images/2017/12/vegetable-lasagna-recipe-4.jpg"
     },
-    {
-      "idMeal": "52785",
-      "strMeal": "Lentil Soup",
-      "strCategory": "Soup",
-      "strInstructions": "In a large pot, sauté onions, garlic, carrots, and celery until softened. Add the lentils, tomatoes, vegetable broth, and spices. Bring to a boil, then reduce heat and simmer for 25-30 minutes until lentils are tender.\r\nSeason with salt and pepper to taste. Serve hot with crusty bread.",
-      "strMealThumb": "https://cookieandkate.com/images/2019/01/best-lentil-soup-recipe-4.jpg"
-    },
+ 
     {
       "idMeal": "52786",
       "strMeal": "Pork Schnitzel",
@@ -148,6 +170,22 @@
       "strMealThumb": "https://www.mygreekdish.com/wp-content/uploads/2013/05/Greek-Chicken-Souvlaki-Skewers-recipe-5-scaled.jpg"
     }
    
+{
+  "idMeal": "52790",
+  "strMeal": "Palak Paneer",
+  "strCategory": "Vegetarian",
+  "strInstructions": "Blanch spinach leaves in boiling water, then blend to a smooth paste. In a pan, sauté onions, ginger, garlic, and green chilies. Add the spinach paste, spices, and paneer cubes. Cook for a few minutes until the paneer absorbs the flavors. Serve hot with roti or rice.",
+  "strMealThumb": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/palak-paneer-recipe.jpg"
+},
+ 
+ 
+{
+  "idMeal": "52793",
+  "strMeal": "Rogan Josh",
+  "strCategory": "Mutton",
+  "strInstructions": "Marinate mutton pieces with yogurt, ginger, garlic, and spices. In a pan, heat oil and sauté onions until golden. Add the marinated mutton and cook on medium heat until tender. Add a mixture of Kashmiri chili, fennel, and other spices. Cook until the oil separates and the gravy thickens. Serve hot with rice or naan.",
+  "strMealThumb": "https://www.chewoutloud.com/wp-content/uploads/2022/08/Rogan-Josh-Square.jpg"
+}
 
 
 
